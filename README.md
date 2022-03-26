@@ -38,4 +38,4 @@ The walkthrough video demonstrates how to use the "INSOMNIA" application to stor
 
 
 ## Walkthrough <br />
-* Youtube Video: 
+* Youtube Video: https://youtu.be/oKmDgXZlGDI
