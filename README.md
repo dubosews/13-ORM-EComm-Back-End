@@ -1,4 +1,6 @@
-# Challenge 13: ORM E-Commerce Back End
+# 13: ORM E-Commerce Back End (API)
+<img src="./img/ecommerceBackEndScreenshot.png"></img>
+<br>
 
 ## Table of Contents <br />
   1. [Description](#description) 
